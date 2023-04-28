@@ -3,3 +3,7 @@
 3. Extentions
 4. Model Architecture
 5. Sail programming language
+
+6. CSRs
+7. Memory mapped registers
+
